@@ -6,3 +6,7 @@ This is the project which implement [DQN](https://deepmind.com/research/dqn/) wi
  * pygame 1.9.2 a0
  
 If you start learning with this project run "Clean.py" or "Gleaning.py".
+
+# References
+ * https://elix-tech.github.io/ja/2016/06/29/dqn-ja.html
+ * https://github.com/farizrahman4u/qlearning4k/blob/master/qlearning4k/agent.py
