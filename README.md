@@ -1,5 +1,5 @@
 # DQN-keras-theano
-This is the project which implement [DQN](https://deepmind.com/research/dqn/) with:
+This project implements [DQN](https://deepmind.com/research/dqn/) with:
  * python 2.7.11
  * keras  1.0.4
  * theano 0.9.0 dev1
